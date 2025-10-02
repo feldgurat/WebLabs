@@ -1,0 +1,12 @@
+body {
+    display: block;
+}
+
+.task {
+    width: 80%;
+    height: 150px;
+    background-color: aqua;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+}
